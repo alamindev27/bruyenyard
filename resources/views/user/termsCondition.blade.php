@@ -15,9 +15,6 @@
                 </div>
             </div>
         </div>
-        <div class="crypten-color">
-            <img src="{{ asset('assets') }}/frontend/images/shape/color-bg-2.png" alt="">
-        </div>
     </div>
 </section>
 

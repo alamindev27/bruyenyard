@@ -9,14 +9,11 @@
             <div class="row align-items-center">
                 <div class="col-lg-12 order-lg-1 order-2">
                     <div class="crypten-trade-content">
-                        <h3 class="title">{{ $data->heading }}</h3>
-                        <p>{!! $data->content !!}</p>
+                        <h3>Background and Motivation</h3>
+                        <h4>Introduction:</h4>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="crypten-color">
-            <img src="{{ asset('assets') }}/frontend/images/shape/color-bg-2.png" alt="">
         </div>
     </div>
 </section>
